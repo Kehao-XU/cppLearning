@@ -1,6 +1,6 @@
 #include <iostream>
 #include <sstream>
-//Just for test
+
 int main() {
     std::string initial_quote = "Bjarne Stroustrup C makes it easy to shoot yourself in the foot\n";
 
