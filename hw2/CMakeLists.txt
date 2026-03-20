@@ -7,13 +7,6 @@ include_directories(.)
 include_directories(__MACOSX)
 
 add_executable(hw2
-        __MACOSX/._grade.cpp
-        __MACOSX/._grade.h
-        __MACOSX/._main.cpp
-        __MACOSX/._median.cpp
-        __MACOSX/._median.h
-        __MACOSX/._Student_info.cpp
-        __MACOSX/._Student_info.h
         grade.cpp
         grade.h
         main.cpp
