@@ -12,7 +12,7 @@ int main()
 	string name;
 	cout  << "Please enter your name:";
 	cin >> name;
-	cout << "Hello, " << name << "!" << endl;
+	cout << "Hello, " << name << "!" << '\n';
 
 	double final,midterm;
 	cout << "Please enter you midterm and final exam grades:";
